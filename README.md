@@ -1,4 +1,6 @@
 # bq25898d
+![picture](https://www.ti.com/content/dam/ticom/images/products/legacy-boards/b/bq25910evm-854_bq25910evm-854-image-board-1.jpg)
+
 Python Class for controlling the BQ25898D
 
 BQ25898D.py was created from the TI datasheet and verified on the BQ25910EVM-854 board (which also has a BQ25910 slave charger). test_bq25898d.py is an example of controlling both the bq25898d and bq25910 with a raspberry pi and custom relay board.
